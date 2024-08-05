@@ -1,4 +1,4 @@
-#ZAPISKI ZA PRIPRAVE NA MMO
+# ZAPISKI ZA PRIPRAVE NA MMO
 
 Objavljam zapiske, ki sem jih ustvaril za potrebe tekmovalcev, ki se pripravljajo na MMO.
 
